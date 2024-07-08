@@ -4,3 +4,4 @@
 #### This is a 'H4" header.
 ##### This is a 'H5" header.
 ###### This is a 'H6" header.
+![Image of a Dope Boxing Cat](https://octodex.github.com/images/boxertocat_octodex.jpg)
